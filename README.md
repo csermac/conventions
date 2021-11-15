@@ -6,7 +6,7 @@ All code and comments must be written in plain english and should avoid cross la
 
 All python code should conform to the [pep8 style guide](https://www.python.org/dev/peps/pep-0008/).
 
-Naming of variables, functions, class methods should be underscore separated lowercase e.g.: ``` test_variable, Class_Name.method(), def function()```.
+Naming of variables, functions, class methods should be underscore separated lowercase e.g.: ``` test_variable = 0, def partition_function(), self.method(), class_instance = Class_Name()```.
 Class naming should be underscore separated camelcase e.g.: ``` class Class_Name(object) ```. If the class name includes acronyms those should be all uppercase, e.g.: ``` class IR_Camera(object), class UAV_Controller(object) ```
 
 C++ code should follow the same functions and classes naming conventions of the python coded and the also the style described in the [google c++ style guide](https://google.github.io/styleguide/cppguide.html).
